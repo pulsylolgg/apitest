@@ -1,4 +1,4 @@
-// pulseee ong api suss
+// side bar drag
 let sidebar = document.querySelector(".sidebar");
 let sidebarBtn = document.querySelector(".sidebarBtn");
 sidebarBtn.onclick = function() {
